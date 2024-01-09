@@ -33,7 +33,7 @@
  
   ### 🧑‍💻 Backend
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql,postgres,postman )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,php,laravel,mongodb,mysql,postgres,postman )](https://skillicons.dev)
 
   ### 🧑‍💻 Testing
   
