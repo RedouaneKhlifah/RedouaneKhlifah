@@ -43,7 +43,7 @@
 
 ## 🌱 Currently Learning
   
-[![My Skills](https://skillicons.dev/icons?i=vuejs,angular,nestjs,nextjs,nuxtjs,docker )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,angular,nextjs,nuxtjs,docker )](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redouanekhlifah&show_icons=true&locale=en&layout=compact" alt="redouanekhlifah" /></p>
 
