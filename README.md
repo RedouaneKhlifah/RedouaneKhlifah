@@ -27,13 +27,18 @@
 
 <br>
 
+
+  ### 🧑‍💻 Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,java,c,cs,)](https://skillicons.dev)
+
   ### 🧑‍💻 Frontend
   
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,redux,jquery,html,css,sass,tailwind,bootstrap,figma,xd,git,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vuejs,redux,jquery,html,css,sass,tailwind,bootstrap,figma,xd,git,vscode,github)](https://skillicons.dev)
  
   ### 🧑‍💻 Backend
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,php,laravel,mongodb,mysql,postgres,postman )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,laravel,mongodb,mysql,postgres,postman )](https://skillicons.dev)
 
   ### 🧑‍💻 Testing
   
@@ -43,7 +48,7 @@
 
 ## 🌱 Currently Learning
   
-[![My Skills](https://skillicons.dev/icons?i=vuejs,angular,nextjs,nuxtjs,docker )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,nuxtjs,docker )](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redouanekhlifah&show_icons=true&locale=en&layout=compact" alt="redouanekhlifah" /></p>
 
