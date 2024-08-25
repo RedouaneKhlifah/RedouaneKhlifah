@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [العمران]
 
-- 🌱 I’m currently learning and working with **asp.net**
+- 🌱 I’m currently learning and working with **ASP.NET**
 
 - 💬 Ask me about **JavaScript , MERN ,ReactJs**
 
