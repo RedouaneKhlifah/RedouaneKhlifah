@@ -38,7 +38,12 @@
  
   ### 🧑‍💻 Backend
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,laravel,mongodb,mysql,postgres,postman )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,laravel )](https://skillicons.dev)
+
+  ### 🧑‍💻 Database
+  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman )](https://skillicons.dev)
+
 
   ### 🧑‍💻 Testing
   
