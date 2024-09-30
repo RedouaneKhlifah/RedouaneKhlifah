@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redouanekhlifah&label=Profile%20views&color=0e75b6&style=flat" alt="redouanekhlifah" /> </p>
 
-- 🔭 I’m currently working on **العمران**
+- 🔭 I’m currently working on **Lofti Service CRM**
 
-- 🌱 I’m currently learning and working with **ASP.NET**
+- 🌱 I’m currently learning and working with **Laravel**
 
-- 💬 Ask me about **JavaScript , MERN ,ReactJs**
+- 💬 Ask me about **JavaScript , MERN ,ReactJs , laravel**
 
 - 📫 How to reach me **redoinkhalifah@gmail.com**
 
