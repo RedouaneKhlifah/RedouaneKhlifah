@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working with **Laravel** , **NextJS**
 
-- 💬 Ask me about **JavaScript , MERN ,Nextsjs , Laravel**
+- 💬 Ask me about **JavaScript , MERN , Nextsjs , Laravel**
 
 - 📫 How to reach me **redoinkhalifah@gmail.com**
 
