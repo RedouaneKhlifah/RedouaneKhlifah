@@ -34,7 +34,7 @@
 
   ### 🧑‍💻 Frontend
   
-[![My Skills](https://skillicons.dev/icons?i=react,vuejs,redux,jquery,html,css,sass,tailwind,bootstrap,figma,xd,git,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,redux,jquery,html,css,sass,tailwind,bootstrap,figma,xd,git,vscode,github)](https://skillicons.dev)
  
   ### 🧑‍💻 Backend
   
@@ -44,10 +44,17 @@
   
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman )](https://skillicons.dev)
 
-
   ### 🧑‍💻 Testing
   
 [![My Skills](https://skillicons.dev/icons?i=jest,supabase)](https://skillicons.dev)
+  
+  ### 🧑‍💻 Design
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
+
+ ### 🧑‍💻 Deployment
+
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 <br>
 
