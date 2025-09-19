@@ -47,10 +47,6 @@
   ### 🧑‍💻 Testing
   
 [![My Skills](https://skillicons.dev/icons?i=jest,supabase)](https://skillicons.dev)
-  
-  ### 🧑‍💻 Design
-
-[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
 
  ### 🧑‍💻 Deployment
 
